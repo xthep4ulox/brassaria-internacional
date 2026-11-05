@@ -1,0 +1,19 @@
+﻿# Java / Maven
+target/
+*.class
+*.jar
+
+# VS Code
+.vscode/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
